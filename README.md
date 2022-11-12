@@ -20,6 +20,22 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :telescope: I’m a Freelance Full Stack Developer and I am open to any collaborations and opportunities involving Frontend and Backend Software Development.
+
+- :seedling: Currently Exploring Blockchain Development and Technical Writing.
+
+- :zap: In my free time, I play football, I try to make entertaining videos, I have fun.
+
+- :mailbox:How to reach me: [![Linkedin](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkenin.com/in/uchechukwu10)
+
+
 
 <!--
 **Uchechukwu10/Uchechukwu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
