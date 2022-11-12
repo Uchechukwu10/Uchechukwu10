@@ -21,7 +21,6 @@
   </h1>
 </div>
 
----
 
 ### :man_technologist: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m a Freelance Full Stack Developer and I am open to any collaborations and opportunities involving Frontend and Backend Software Development.
@@ -30,7 +29,7 @@
 
 - :zap: In my free time, I play football, I try to make entertaining videos, I have fun.
 
-- :mailbox:How to reach me: [![Linkedin](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkenin.com/in/uchechukwu10)
+- :mailbox:How to reach me: [![Linkedin](https://img.shields.io/badge/-Uche-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkenin.com/in/uchechukwu10)
 
 ---
 
