@@ -27,7 +27,7 @@
 
 - :seedling: Currently Exploring Blockchain Development and Technical Writing.
 
-- :zap: In my free time, I play football, I try to make entertaining videos, I have fun.
+- :zap: In my free time, I play football, I try to make entertaining videos, I have fun with code.
 
 - :mailbox:How to reach me: [![Linkedin](https://img.shields.io/badge/-Uche-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkenin.com/in/uchechukwu10)
 
